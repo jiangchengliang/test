@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"cn.edu.jsu.jcl.vo","l":"YongHuInput"},{"l":"所有类","url":"allclasses-index.html"}]
